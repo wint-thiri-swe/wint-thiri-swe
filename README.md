@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Django REST FRAMEWORK
 - 📫 How to reach me
-    - [LinkedIn](www.linkedin.com/in/wint-thiri-swe)
+    - [LinkedIn](https://www.linkedin.com/in/wint-thiri-swe/)
     - discord: wint#9677
 - 🤡 Fun fact: Kdrama addict
 
