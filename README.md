@@ -4,7 +4,6 @@
 - 📫 How to reach me
     - [LinkedIn](https://www.linkedin.com/in/wint-thiri-swe/)
     - discord: wint#9677
-- 🤡 Fun fact: Kdrama addict
 
 <!---
 wint-thiri-swe/wint-thiri-swe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
