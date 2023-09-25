@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Wint ###
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning ThreeJS
 - 📫 How to reach me
     - [LinkedIn](https://www.linkedin.com/in/wint-thiri-swe/)
     - discord: wint#9677
